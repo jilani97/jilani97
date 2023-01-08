@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular 10
+- 🔭 I’m currently working on a Pokemon 2D platformer game
 - 🌱 I’m currently learning shortcuts
-- 👯 I’m looking to collaborate on Unity
-- 🤔 I’m looking for help with Unity 3d
 - 💬 Ask me about Angular and Java
 - 📫 How to reach me: ilham.shah@gmail.com
 - 😄 Pronouns: Energetic, Helpful, Kind
